@@ -22,3 +22,5 @@ This project is a simple webpage designed to resemble the layout and style of a 
 This project is licensed under the MIT License. Feel free to modify and distribute as per the license terms.
 
 ---
+
+This `README.md` file provides an overview of the project, the technologies used, and instructions on how to run and customize the webpage. You can modify the content based on the specific features of your webpage.
